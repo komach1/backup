@@ -1,0 +1,11 @@
+git config --global user.name "komach1"
+
+git config --global user.email "mi1k16g@gmail.com"
+
+cd Desktop\workspace\workspace-Ito\backup
+
+git add all
+
+git commit --m"12/20"
+
+git push
